@@ -9,7 +9,7 @@ Original file is located at
 # Kaggle Competition Stage 1: Submission 1 - CNN
 """
 
-
+# Leveraged Google Colab for Google's free Telsa K80 GPU computing power
 
 """# Connect GoogleDrive"""
 
